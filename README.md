@@ -17,11 +17,18 @@ This project focuses on building a **scalable data pipeline** using **AWS and Py
 - **Storage**: AWS S3  
 
 ## Project Structure  
-├── Aggregated Data/ # Data after running various aggregare queries in pyspark
-├── Code Files/ # PySpark and SQL scripts
-├── Preprocessed Data/ # Final Data after transformation and cleaning
-├── Dataset.csv # Raw dataset used for processing
-├── Project_Report.pdf # Detailed report on the project
-├── Quicksight_Dashboard.pdf # Dashboard visualizations and insights
-├── README.md # Project documentation
+- Aggregated Data - Data after running various aggregare queries in pyspark
+- Code Files - PySpark and SQL scripts
+- Preprocessed Data - Final Data after transformation and cleaning
+- Dataset.csv - Raw dataset used for processing
+- Project_Report.pdf - Detailed report on the project
+- Quicksight_Dashboard.pdf - Dashboard visualizations and insights
+- README.md - Project documentation
 
+## How to Use  
+For a step-by-step guide on setting up the pipeline, running scripts, and automating processes, **refer to [Project_Report.pdf](./Project_Report.pdf).**  
+
+## Results & Insights  
+- **Detailed analysis and insights** are documented in **[Project_Report.pdf](./Project_Report.pdf).**  
+- **Visualization of key business metrics** can be found in **[Quicksight_Dashboard.pdf](./Quicksight_Dashboard.pdf).**  
+- **Aggregated query results** are available in **[Aggregated Data/](./Aggregated%20Data/).**  
