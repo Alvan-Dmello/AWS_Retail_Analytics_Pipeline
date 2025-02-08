@@ -1,4 +1,4 @@
-# AWS-Retail-Analytics-Pipeline
+# AWS Retail Analytics Pipeline
 
 ## Project Overview  
 This project focuses on building a **scalable data pipeline** using **AWS and PySpark** to process and analyze a retail store dataset. The pipeline automates data ingestion, transformation, storage, and visualization while integrating **AWS SageMaker Autopilot** for machine learning and **AWS QuickSight** for interactive dashboards.
